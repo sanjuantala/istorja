@@ -1,0 +1,827 @@
+{
+  "current": {
+    "heading_color": "#a5a5a5",
+    "text_color": "#323232",
+    "text_light_color": "#323232",
+    "link_color": "#323232",
+    "background": "#ffffff",
+    "light_background": "rgba(0,0,0,0)",
+    "product_on_sale_color": "#8c2f2f",
+    "button_background": "#a5a5a5",
+    "button_text_color": "#ffffff",
+    "header_background": "#ffffff",
+    "header_heading_color": "#323232",
+    "header_light_color": "#323232",
+    "footer_background": "#ebebeb",
+    "footer_heading_color": "#323232",
+    "footer_text_color": "#323232",
+    "navigation_background": "#ffffff",
+    "navigation_text_color": "#323232",
+    "newsletter_popup_background": "#ffffff",
+    "newsletter_popup_text_color": "#323232",
+    "secondary_elements_background": "#323232",
+    "secondary_elements_text_color": "#ffffff",
+    "heading_font": "futura_n4",
+    "heading_size": "large",
+    "uppercase_heading": false,
+    "text_font": "century_gothic_n4",
+    "base_text_font_size": 15,
+    "currency_code_enabled": false,
+    "show_page_transition": false,
+    "show_button_transition": false,
+    "search_mode": "product,article",
+    "product_show_price_on_hover": false,
+    "product_show_secondary_image": true,
+    "show_product_rating": false,
+    "product_info_alignment": "center",
+    "product_image_size": "square",
+    "product_list_horizontal_spacing": "small",
+    "product_list_vertical_spacing": "small",
+    "cart_type": "drawer",
+    "cart_enable_notes": true,
+    "cart_show_free_shipping_threshold": true,
+    "cart_free_shipping_threshold": "50",
+    "social_facebook": "https:\/\/www.facebook.com\/istorja",
+    "social_instagram": "https:\/\/www.instagram.com\/istorja\/",
+    "favicon": "shopify:\/\/shop_images\/favicon1.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Istorja_Logo_6f5121b1-b6e0-459a-a526-e46f640236f2.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_accent_color": "#8c2f2f",
+    "checkout_button_color": "#8c2f2f",
+    "sections": {
+      "sidebar-menu": {
+        "type": "sidebar-menu",
+        "settings": {
+          "primary_menu": "main-menu",
+          "secondary_menu": "",
+          "show_social_media": true
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "settings": {
+          "enable_bar": true,
+          "home_page_only": false,
+          "background": "#323232",
+          "text_color": "#ffffff",
+          "content": "Extra 10% off Sale with code ‘MORE10’",
+          "link": "shopify:\/\/collections\/sale"
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "use_sticky_header": false,
+          "logo": "shopify:\/\/shop_images\/istorja_logo-05.png",
+          "logo_max_width": 105,
+          "mobile_logo_max_width": 90,
+          "show_currency_selector": false,
+          "show_locale_selector": false,
+          "navigation_menu": "main-menu",
+          "navigation_style": "sidebar",
+          "show_icons": true,
+          "enable_transparent_header": false,
+          "enable_transparent_header_collection": false,
+          "show_transparent_header_border": true,
+          "transparent_text_color": "#ffffff"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "text",
+            "settings": {
+              "title": "About Us",
+              "content": "<p><strong>Istorja <\/strong>concept was created to bring an eclectic collection of Homeware and Lifestyle products from allover the world into your life. We promote and support the use of artisanal skills and techniques, honour authentic craftsmanship from around the world and promote young designers.<br\/><\/p>",
+              "show_social_media": true
+            }
+          },
+          "4e8a0b0e-6568-4de8-9e19-666173eec002": {
+            "type": "links",
+            "settings": {
+              "menu": "collections"
+            }
+          },
+          "footer-1": {
+            "type": "links",
+            "settings": {
+              "menu": "footer"
+            }
+          },
+          "footer-2": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter",
+              "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "4e8a0b0e-6568-4de8-9e19-666173eec002",
+          "footer-1",
+          "footer-2"
+        ],
+        "settings": {
+          "show_payment_methods": true,
+          "show_currency_selector": false,
+          "show_locale_selector": false
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "show_popup": false,
+          "show_only_on_index": false,
+          "show_only_for_visitors": false,
+          "show_only_once": false,
+          "title": "",
+          "content": "",
+          "show_newsletter": false,
+          "apparition_delay": 5
+        }
+      },
+      "text-adverts": {
+        "type": "text-adverts",
+        "blocks": {
+          "74d59111-8cb9-4df8-bd31-24f639014ec1": {
+            "type": "text",
+            "settings": {
+              "heading": "Free Shipping within Cyprus",
+              "subheading": "on all orders over 60€",
+              "link": "shopify:\/\/pages\/shipping-returns"
+            }
+          },
+          "4d619606-e72b-42f0-a5b2-f7efa7e21800": {
+            "type": "text",
+            "settings": {
+              "heading": "We Ship Worldwide",
+              "subheading": "contact us for freight details",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "74d59111-8cb9-4df8-bd31-24f639014ec1",
+          "4d619606-e72b-42f0-a5b2-f7efa7e21800"
+        ],
+        "settings": {
+          "colors": "light"
+        }
+      },
+      "brandlist": {
+        "type": "brandlist",
+        "blocks": {
+          "608fb8e7-f81c-414c-9a0a-d053c7c2ffed": {
+            "type": "cta",
+            "settings": {
+              "title": "AESOP",
+              "link": "https:\/\/istorja.com\/search?q=aesop*&type=product",
+              "image": "shopify:\/\/shop_images\/5ED5D43A-36B8-480B-9585-CE80807C4516.jpg"
+            }
+          },
+          "22be72d2-6b25-419a-ba77-f1aa88f7cfbf": {
+            "type": "cta",
+            "disabled": true,
+            "settings": {
+              "title": "ALL THE MUST",
+              "link": "\/collections\/vendors?q=ALL%20THE%20MUST",
+              "image": "shopify:\/\/shop_images\/ALL_THE_MUST.jpg"
+            }
+          },
+          "baeb636b-e0d0-4296-8ba1-2984d7d7d580": {
+            "type": "cta",
+            "settings": {
+              "title": "AUDO",
+              "link": "",
+              "image": "shopify:\/\/shop_images\/C562E46F-9D12-4CE6-B90D-8D289A1B8BFE.jpg"
+            }
+          },
+          "56152020-1518-41e8-a683-d70e14962daf": {
+            "type": "cta",
+            "disabled": true,
+            "settings": {
+              "title": "ANNI LU",
+              "link": "\/collections\/vendors?q=Anni%20Lu",
+              "image": "shopify:\/\/shop_images\/Anni_Lu.jpg"
+            }
+          },
+          "565f6500-5d42-4da6-b488-f9dc85334543": {
+            "type": "cta",
+            "disabled": true,
+            "settings": {
+              "title": "ASSOULINE",
+              "link": "\/collections\/vendors?q=ASSOULINE",
+              "image": "shopify:\/\/shop_images\/IMG_5489.webp"
+            }
+          },
+          "db6f3563-d8b6-4e2e-aaa1-9d73767f4882": {
+            "type": "cta",
+            "settings": {
+              "title": "AY ILLUMINATE",
+              "link": "\/collections\/vendors?q=AY%20ILLUMINATE",
+              "image": "shopify:\/\/shop_images\/AY_ILLUMINATE.jpg"
+            }
+          },
+          "fcdf8007-6864-4287-801d-61a7ce454de6": {
+            "type": "cta",
+            "settings": {
+              "title": "BAMFORD",
+              "link": "",
+              "image": "shopify:\/\/shop_images\/IMG_7029.jpg"
+            }
+          },
+          "eb6ac6b4-5dbe-472b-b3a3-cb13b6b6d2c1": {
+            "type": "cta",
+            "settings": {
+              "title": "BAZAR BIZAR",
+              "link": "\/collections\/vendors?q=Bazar%20Bizar",
+              "image": "shopify:\/\/shop_images\/Bazar_Bizar.jpg"
+            }
+          },
+          "05f07392-90a3-4ceb-8296-bda0159a6708": {
+            "type": "cta",
+            "settings": {
+              "title": "BLOOMINGVILLE",
+              "link": "\/collections\/vendors?q=Bloomingville",
+              "image": "shopify:\/\/shop_images\/Bloomingville.jpg"
+            }
+          },
+          "c1920f72-76c4-4f99-af1c-3f6349d08e90": {
+            "type": "cta",
+            "settings": {
+              "title": "BUSINESS & PLEASURE",
+              "link": "\/collections\/vendors?q=BUSINES%20%26%20PLEASURE",
+              "image": "shopify:\/\/shop_images\/BUSINES_PLEASURE.jpg"
+            }
+          },
+          "4beb2bde-3cdb-4dab-9eba-342d1deaac71": {
+            "type": "cta",
+            "settings": {
+              "title": "CHARVET",
+              "link": "\/collections\/vendors?q=CHARVET",
+              "image": "shopify:\/\/shop_images\/CHARVET.jpg"
+            }
+          },
+          "94eecbc5-0916-40f7-a334-d1e63b57548f": {
+            "type": "cta",
+            "settings": {
+              "title": "FRAMA",
+              "link": "\/collections\/vendors?q=FRAMA",
+              "image": "shopify:\/\/shop_images\/FRAMA.jpg"
+            }
+          },
+          "c4d9125b-7bc9-48fb-bb1b-5f76fe12a082": {
+            "type": "cta",
+            "settings": {
+              "title": "GESTALTEN",
+              "link": "\/collections\/vendors?q=Gestalten",
+              "image": "shopify:\/\/shop_images\/Gestalten.jpg"
+            }
+          },
+          "70ae8c62-4931-40b4-b9f4-0a4227bdb035": {
+            "type": "cta",
+            "settings": {
+              "title": "HK LIVING",
+              "link": "\/collections\/vendors?q=HKLIVING",
+              "image": "shopify:\/\/shop_images\/HKLIVING.jpg"
+            }
+          },
+          "beda7c2b-c090-4898-88ca-2752452f6b4e": {
+            "type": "cta",
+            "settings": {
+              "title": "HOUSE DOCTOR",
+              "link": "\/collections\/vendors?q=House%20Doctor",
+              "image": "shopify:\/\/shop_images\/House_Doctor.jpg"
+            }
+          },
+          "13cfb674-1fa1-4da1-93c2-5e89df87d872": {
+            "type": "cta",
+            "settings": {
+              "title": "HUBSCH",
+              "link": "\/collections\/vendors?q=h%C3%BCbsch",
+              "image": "shopify:\/\/shop_images\/HUbsch.jpg"
+            }
+          },
+          "48ba7c6c-615a-49a6-a9e2-7fca58c16d5c": {
+            "type": "cta",
+            "settings": {
+              "title": "KATIE LEAMON",
+              "link": "\/collections\/vendors?q=Katie%20Leamon",
+              "image": "shopify:\/\/shop_images\/Katie_Leamon.jpg"
+            }
+          },
+          "eea37996-c13e-430e-a352-283c7e6b8904": {
+            "type": "cta",
+            "settings": {
+              "title": "KINTO",
+              "link": "https:\/\/istorja.com\/search?q=kinto*&type=product",
+              "image": "shopify:\/\/shop_images\/60701AA0-2F26-4FB8-9E4E-626BE0AF3EA4.jpg"
+            }
+          },
+          "32627a92-7775-40ae-a935-b4288365c91b": {
+            "type": "cta",
+            "settings": {
+              "title": "KYOTO TANGO",
+              "link": "https:\/\/istorja.com\/search?q=kyoto%20tango*&type=product",
+              "image": "shopify:\/\/shop_images\/IMG_5292.jpg"
+            }
+          },
+          "35b280e5-b471-4351-b34b-a6abca0c7b52": {
+            "type": "cta",
+            "settings": {
+              "title": "LA2L",
+              "link": "https:\/\/istorja.com\/search?q=sun%20of%20a%20beach*&type=product",
+              "image": "shopify:\/\/shop_images\/8C6485C1-3E82-4A1D-B89D-2300909476C6.jpg"
+            }
+          },
+          "763ee93e-98ce-4094-ad7d-df4597d29674": {
+            "type": "cta",
+            "settings": {
+              "title": "LORNA MURRAY",
+              "link": "",
+              "image": "shopify:\/\/shop_images\/3C4C1DC6-015A-4B88-842E-EFF0BCDFEB49.jpg"
+            }
+          },
+          "68bd1c14-a32f-49c1-a7bb-4e1ecb90d9a2": {
+            "type": "cta",
+            "disabled": true,
+            "settings": {
+              "title": "MADAM STOLZ",
+              "link": "\/collections\/vendors?q=madam%20stolz",
+              "image": "shopify:\/\/shop_images\/madam_stolz.jpg"
+            }
+          },
+          "5c7659b0-a135-483a-9962-e0d2c615dc26": {
+            "type": "cta",
+            "settings": {
+              "title": "MARJOLEIN DELHAAS",
+              "link": "https:\/\/istorja.com\/search?q=marjoelin*&type=product",
+              "image": "shopify:\/\/shop_images\/IMG_5294.jpg"
+            }
+          },
+          "c7617889-2528-4d46-9d00-13f2eb64e5dd": {
+            "type": "cta",
+            "settings": {
+              "title": "NEW WORKS",
+              "link": "",
+              "image": "shopify:\/\/shop_images\/IMG_5084.jpg"
+            }
+          },
+          "f119bbeb-c5a3-4606-b989-ee16e2e6a840": {
+            "type": "cta",
+            "settings": {
+              "title": "NICOLAS VAHE",
+              "link": "\/collections\/vendors?q=Nicolas%20Vahe",
+              "image": "shopify:\/\/shop_images\/Nicolas_Vahe.jpg"
+            }
+          },
+          "9930bfb6-4f00-401c-b099-ea34b8bc084d": {
+            "type": "cta",
+            "settings": {
+              "title": "PF CANDLE",
+              "link": "\/collections\/vendors?q=PF%20CANDLE%20Co",
+              "image": "shopify:\/\/shop_images\/PF_CANDLE_Co.jpg"
+            }
+          },
+          "a78834dc-94ac-4b2d-9ca3-e18b7e7ddbde": {
+            "type": "cta",
+            "settings": {
+              "title": "SALT & STONE",
+              "link": "",
+              "image": "shopify:\/\/shop_images\/IMG_7020.jpg"
+            }
+          },
+          "1f61d019-131c-44e2-984a-cbf3f641cbc9": {
+            "type": "cta",
+            "settings": {
+              "title": "SERAX",
+              "link": "\/collections\/vendors?q=SERAX",
+              "image": "shopify:\/\/shop_images\/SERAX.jpg"
+            }
+          },
+          "4cad3233-e31b-46fb-b16e-edde2af593af": {
+            "type": "cta",
+            "settings": {
+              "title": "SUN OF A BEACH",
+              "link": "https:\/\/istorja.com\/search?q=sun%20of%20a%20beach*&type=product",
+              "image": "shopify:\/\/shop_images\/E6C460B2-C13C-40E5-B200-A44203948D57.jpg"
+            }
+          },
+          "ef9615e7-11b4-4e64-9ea8-fea09d47b985": {
+            "type": "cta",
+            "settings": {
+              "title": "TINEK HOME",
+              "link": "\/collections\/vendors?q=TineK%20Home",
+              "image": "shopify:\/\/shop_images\/Tinek_home.jpg"
+            }
+          },
+          "55e3c145-b99e-46a0-8f9b-97bf9747f934": {
+            "type": "cta",
+            "settings": {
+              "title": "VEJA",
+              "link": "\/collections\/vendors?q=VEJA",
+              "image": "shopify:\/\/shop_images\/VEJA.jpg"
+            }
+          },
+          "ee946d88-b20b-4e5d-ab4d-e76eb1dd021e": {
+            "type": "cta",
+            "settings": {
+              "title": "URBAN NATURE CULTURE",
+              "link": "",
+              "image": "shopify:\/\/shop_images\/IMG_5082.png"
+            }
+          }
+        },
+        "block_order": [
+          "608fb8e7-f81c-414c-9a0a-d053c7c2ffed",
+          "22be72d2-6b25-419a-ba77-f1aa88f7cfbf",
+          "baeb636b-e0d0-4296-8ba1-2984d7d7d580",
+          "56152020-1518-41e8-a683-d70e14962daf",
+          "565f6500-5d42-4da6-b488-f9dc85334543",
+          "db6f3563-d8b6-4e2e-aaa1-9d73767f4882",
+          "fcdf8007-6864-4287-801d-61a7ce454de6",
+          "eb6ac6b4-5dbe-472b-b3a3-cb13b6b6d2c1",
+          "05f07392-90a3-4ceb-8296-bda0159a6708",
+          "c1920f72-76c4-4f99-af1c-3f6349d08e90",
+          "4beb2bde-3cdb-4dab-9eba-342d1deaac71",
+          "94eecbc5-0916-40f7-a334-d1e63b57548f",
+          "c4d9125b-7bc9-48fb-bb1b-5f76fe12a082",
+          "70ae8c62-4931-40b4-b9f4-0a4227bdb035",
+          "beda7c2b-c090-4898-88ca-2752452f6b4e",
+          "13cfb674-1fa1-4da1-93c2-5e89df87d872",
+          "48ba7c6c-615a-49a6-a9e2-7fca58c16d5c",
+          "eea37996-c13e-430e-a352-283c7e6b8904",
+          "32627a92-7775-40ae-a935-b4288365c91b",
+          "35b280e5-b471-4351-b34b-a6abca0c7b52",
+          "763ee93e-98ce-4094-ad7d-df4597d29674",
+          "68bd1c14-a32f-49c1-a7bb-4e1ecb90d9a2",
+          "5c7659b0-a135-483a-9962-e0d2c615dc26",
+          "c7617889-2528-4d46-9d00-13f2eb64e5dd",
+          "f119bbeb-c5a3-4606-b989-ee16e2e6a840",
+          "9930bfb6-4f00-401c-b099-ea34b8bc084d",
+          "a78834dc-94ac-4b2d-9ca3-e18b7e7ddbde",
+          "1f61d019-131c-44e2-984a-cbf3f641cbc9",
+          "4cad3233-e31b-46fb-b16e-edde2af593af",
+          "ef9615e7-11b4-4e64-9ea8-fea09d47b985",
+          "55e3c145-b99e-46a0-8f9b-97bf9747f934",
+          "ee946d88-b20b-4e5d-ab4d-e76eb1dd021e"
+        ],
+        "settings": {
+          "section-title": "BRANDS"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "5946647744298494267": {
+        "type": "shopify:\/\/apps\/wishlist-plus\/blocks\/wishlist-app-embed\/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Allure": {
+      "heading_color": "#1c1b1b",
+      "text_color": "#1c1b1b",
+      "text_light_color": "#6a6a6a",
+      "link_color": "#6a6a6a",
+      "background": "#efefef",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#1c1b1b",
+      "button_text_color": "#ffffff",
+      "header_background": "#ffffff",
+      "header_heading_color": "#1c1b1b",
+      "header_light_color": "#6a6a6a",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#1c1b1b",
+      "footer_text_color": "#6a6a6a",
+      "newsletter_popup_background": "#1c1b1b",
+      "newsletter_popup_text_color": "#ffffff",
+      "secondary_elements_background": "#1c1b1b",
+      "secondary_elements_text_color": "#ffffff",
+      "navigation_background": "#1c1b1b",
+      "navigation_text_color": "#ffffff",
+      "heading_font": "montserrat_n5",
+      "heading_size": "small",
+      "uppercase_heading": true,
+      "text_font": "nunito_sans_n4",
+      "base_text_font_size": 14,
+      "show_page_transition": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": false,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "center",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "medium",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "small",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#efefef",
+      "checkout_accent_color": "#1c1b1b",
+      "checkout_button_color": "#1c1b1b",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#000000",
+            "text_color": "#ffffff",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "inline",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    },
+    "Couture": {
+      "heading_color": "#5c5c5c",
+      "text_color": "#5c5c5c",
+      "text_light_color": "#939393",
+      "link_color": "#323232",
+      "background": "#ffffff",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#5c5c5c",
+      "button_text_color": "#ffffff",
+      "header_background": "#ffffff",
+      "header_heading_color": "#5c5c5c",
+      "header_light_color": "#939393",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#5c5c5c",
+      "footer_text_color": "#939393",
+      "newsletter_popup_background": "#ffffff",
+      "newsletter_popup_text_color": "#1c1b1b",
+      "secondary_elements_background": "#5c5c5c",
+      "secondary_elements_text_color": "#ffffff",
+      "navigation_background": "#ffffff",
+      "navigation_text_color": "#5c5c5c",
+      "heading_font": "futura_n4",
+      "heading_size": "large",
+      "uppercase_heading": false,
+      "text_font": "century_gothic_n4",
+      "base_text_font_size": 15,
+      "show_page_transition": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": true,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "left",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "small",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "small",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_accent_color": "#323232",
+      "checkout_button_color": "#5c5c5c",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#f3f3f3",
+            "text_color": "#5c5c5c",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "center",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    },
+    "Vogue": {
+      "heading_color": "#303030",
+      "text_color": "#303030",
+      "text_light_color": "#595959",
+      "link_color": "#000000",
+      "background": "#ffffff",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#f5db8b",
+      "button_text_color": "#303030",
+      "header_background": "#ffffff",
+      "header_heading_color": "#303030",
+      "header_light_color": "#595959",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#303030",
+      "footer_text_color": "#595959",
+      "navigation_background": "#ffffff",
+      "navigation_text_color": "#303030",
+      "newsletter_popup_background": "#ffffff",
+      "newsletter_popup_text_color": "#303030",
+      "secondary_elements_background": "#fce7a8",
+      "secondary_elements_text_color": "#303030",
+      "heading_font": "din_neuzeit_grotesk_n3",
+      "heading_size": "small",
+      "uppercase_heading": true,
+      "text_font": "futura_n4",
+      "base_text_font_size": 14,
+      "show_page_transition": false,
+      "show_element_staggering": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": true,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "center",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "medium",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_accent_color": "#a17c5e",
+      "checkout_button_color": "#454545",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#f1e4d8",
+            "text_color": "#343434",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "inline",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".shopify-payment-button__more-options {display: none;}"
+    ]
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SHOPIFY_CAROUSEL_f9d0bc9f-7286-42dd-ab12-9da651862a5f.png",
+            "mobile_image": "shopify:\/\/shop_images\/MOBILE_CAROUSEL_042e5b3e-6bc1-4fe8-84a8-d3ff5e1a8f14.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "NEW WORKS",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "355e2f6c-dd23-4864-ac4b-0d71d787e64c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SHOPIFY_CAROUSEL_ec53802b-72c5-4146-924f-5644b1cc59a6.png",
+            "mobile_image": "shopify:\/\/shop_images\/MOBILE_CAROUSEL_efb2ec08-78b0-4dd5-bfbe-f94c6a468e58.png",
+            "apply_overlay": false,
+            "content_position": "middleLeft",
+            "subheading": "",
+            "title": "PERFECT GIFT",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/home-fragrances",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "e50be8ac-1a32-4a38-96a2-680790037671": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SHOPIFY_CAROUSEL_47cbc186-4668-4dea-b830-3721cb0c9f0d.png",
+            "mobile_image": "shopify:\/\/shop_images\/MOBILE_CAROUSEL_2.png",
+            "apply_overlay": false,
+            "content_position": "middleLeft",
+            "subheading": "",
+            "title": "THE GIFT EDIT",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/gift-boxes",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SHOPIFY_CAROUSEL_3.png",
+            "mobile_image": "shopify:\/\/shop_images\/Untitled_design_d28d1919-1b2a-4b92-aa49-d8d3f0970b61.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "FOOD",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "6b9c8678-6d08-4bf2-9b95-71bfb91197ca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SHOPIFY_CAROUSEL_38f42cd0-defe-4264-b150-cc2508d8f10a.png",
+            "mobile_image": "shopify:\/\/shop_images\/Untitled_design_25262ee2-a498-4f8f-9820-acb19b80ae87.png",
+            "apply_overlay": false,
+            "content_position": "middleLeft",
+            "subheading": "",
+            "title": "KITCHEN",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/drinkware",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "355e2f6c-dd23-4864-ac4b-0d71d787e64c",
+        "e50be8ac-1a32-4a38-96a2-680790037671",
+        "slide-1",
+        "6b9c8678-6d08-4bf2-9b95-71bfb91197ca"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": true,
+        "autoplay": true,
+        "cycle_speed": 3,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "163540763287446a54": {
+      "type": "featured-collections",
+      "blocks": {
+        "163540763287446a54-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrivals",
+            "title": "New Arrivals",
+            "grid_items_count": 4,
+            "button_text": "View all new arrivals"
+          }
+        }
+      },
+      "block_order": [
+        "163540763287446a54-0"
+      ],
+      "settings": {
+        "title": "",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "1",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "books",
+            "title": "BOOKS",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        },
+        "bfd1d655-fb76-4cd4-abf2-83b07ee39550": {
+          "type": "collection",
+          "settings": {
+            "collection": "kids-books",
+            "title": "KIDS BOOKS",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collection-0",
+        "bfd1d655-fb76-4cd4-abf2-83b07ee39550"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "carousel",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "1635157001c9184524": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "About i'storja",
+        "html": "<p>Istorja concept was created to bring an eclectic collection of Homewear and Lifestyle products from allover the world into your life. We promote and support the use of artisanal skills and techniques, honour authentic craftsmanship from around the world and promote young designers.<\/p>\n<p>We will constantly research to bring to you unique items that will make you smile, carefully crafted with love and most of all with a story behind them.<\/p>\n<p>WELCOME to our <b>Story<\/b>.<\/p>"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "9f558180-c6ee-40f7-a534-900bdbdaca30": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "secret-santa",
+            "image": "shopify:\/\/shop_images\/59CE1535-6E1D-47DB-AAA5-E407F0ACAFEB.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "OUR BEST UNDER €20",
+            "title": "SECRET SANTA",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/secret-santa",
+            "apply_overlay": true
+          }
+        },
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "notebooks-planners",
+            "image": "shopify:\/\/shop_images\/911BE4AD-BBB9-4A46-A3FF-6AAD92C962B3.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "NOTEBOOKS & PLANNERS",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/notebooks-planners",
+            "apply_overlay": true
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "gift-wrapping-cards",
+            "image": "shopify:\/\/shop_images\/C5B48033-4788-4A45-ACEA-CD6358243C15.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "GIFT WRAPPING & CARDS",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/gift-wrapping-cards",
+            "apply_overlay": true
+          }
+        },
+        "3e36ea09-9da3-44be-b1df-f564a36f381f": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "gifts-for-him",
+            "image": "shopify:\/\/shop_images\/678F79FC-9578-4C7F-9A6F-37A26DD26342.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "GIFTS FOR HIM",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/gifts-for-him",
+            "apply_overlay": true
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "drinkware",
+            "image": "shopify:\/\/shop_images\/118B9161-3C11-4562-814A-C14DD394A17C.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "DRINKWARE",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/drinkware",
+            "apply_overlay": true
+          }
+        },
+        "4288bafa-f999-43c0-a702-daae454f9ee0": {
+          "type": "collection",
+          "settings": {
+            "collection": "food",
+            "image": "shopify:\/\/shop_images\/925B8A1F-2666-4DF0-AEE0-9082B6B8AE6F.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "FOOD",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/food",
+            "apply_overlay": true
+          }
+        },
+        "eb763cf2-509f-45db-8d86-8d51134414bf": {
+          "type": "collection",
+          "settings": {
+            "collection": "home-fragrances",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "HOME FRAGRANCES",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/home-fragrances",
+            "apply_overlay": true
+          }
+        },
+        "4407fcc1-e47c-4b3f-bfd0-4061a440c6bb": {
+          "type": "collection",
+          "settings": {
+            "collection": "lighting",
+            "image": "shopify:\/\/shop_images\/E0C0D7BC-12CC-4C71-8CF1-94E287C25058_1400x1400_a2f21f0a-4dbd-436a-ba7c-ea3d523c736b.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "LIGHTING",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/lighting",
+            "apply_overlay": true
+          }
+        },
+        "465f35d3-79fa-4c39-9e46-a857ac37d158": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchen",
+            "image": "shopify:\/\/shop_images\/hc0324_02_1200x1200_ce887fcb-ccf3-4a81-b9dc-3f2c9b4b3a9f.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "EATING & SERVING",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/eating-and-serving",
+            "apply_overlay": true
+          }
+        },
+        "b590e575-3857-42f7-b278-784adbfb5bb7": {
+          "type": "collection",
+          "settings": {
+            "collection": "books",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "BOOKS",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/books",
+            "apply_overlay": true
+          }
+        },
+        "9d5a0d34-f4f7-4c87-9abc-2ee5e9463c92": {
+          "type": "collection",
+          "settings": {
+            "collection": "vases-pots",
+            "image": "shopify:\/\/shop_images\/IMG_8863.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "VASES",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/vases-pots",
+            "apply_overlay": true
+          }
+        },
+        "be79278d-c4dc-47ed-a9b5-3629798f4185": {
+          "type": "collection",
+          "settings": {
+            "collection": "greatforgifts",
+            "image": "shopify:\/\/shop_images\/Screenshot_2021-12-09_at_9.24.16_PM.png",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "SIDE TABLES",
+            "button_text": "shop now",
+            "button_link": "shopify:\/\/collections\/tables",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "9f558180-c6ee-40f7-a534-900bdbdaca30",
+        "collection-0",
+        "collection-1",
+        "3e36ea09-9da3-44be-b1df-f564a36f381f",
+        "collection-2",
+        "4288bafa-f999-43c0-a702-daae454f9ee0",
+        "eb763cf2-509f-45db-8d86-8d51134414bf",
+        "4407fcc1-e47c-4b3f-bfd0-4061a440c6bb",
+        "465f35d3-79fa-4c39-9e46-a857ac37d158",
+        "b590e575-3857-42f7-b278-784adbfb5bb7",
+        "9d5a0d34-f4f7-4c87-9abc-2ee5e9463c92",
+        "be79278d-c4dc-47ed-a9b5-3629798f4185"
+      ],
+      "settings": {
+        "image_size": "small",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
+    },
+    "16351695511962b3b3": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_08161111.jpg",
+        "layout": "left",
+        "title": "BUY A GIFT VOUCHER",
+        "text": "<p>Guaranteed to make someone happy.<br\/><br\/><\/p>",
+        "button_label": "Shop Now",
+        "button_link": "\/products\/gift-card"
+      }
+    },
+    "1636211823848d817d": {
+      "type": "feature-row",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/11111.jpg",
+        "layout": "left",
+        "title": "VEJA SHOES",
+        "text": "<p>Founded in Paris in 2004 by best friends Sébastien Kopp and François Morillion, Veja is an ecological sneaker brand which holds ethics and sustainability at its very core. Manufactured in Brazil using organic cotton and recyclable materials, Veja produces classic trainers, for the conscious consumer, that are inspired by 1970s Brazil and will stand the test of time with their simplistic, retro look.<\/p><p><\/p><p><\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "\/collections\/shoes"
+      }
+    },
+    "1636211286f212ea2b": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "SHOP THE OUTLET",
+        "title": "UP TO 60% OFF",
+        "html": "<a href=\"\/collections\/sale\" class=\"Button Button--primary\" aria-label=\"Shop Now\">Shop Now<\/a>"
+      }
+    },
+    "163541369315a21173": {
+      "type": "map",
+      "settings": {
+        "title": "COME & SAY HI",
+        "address": "<p>Gregoriou Xenopoulou 9,         Nicosia 1016, Cyprus<br\/><br\/><\/p>",
+        "hours": "<h5>CAFE:<\/h5><p>MON - FR: 8AM - 9PM I                SAT: 9AM - 5PM<\/p><p><br\/><\/p><h5>SHOP:<\/h5><p>MON - FR: 10AM - 7PM I                  SAT: 10AM - 5PM<br\/><br\/><\/p>",
+        "map_address": "",
+        "map_link_label": "",
+        "api_key": "",
+        "zoom": 14,
+        "map_style": "silver",
+        "image": "shopify:\/\/shop_images\/2EA11994-9548-4D1F-B08F-61027867CA06.jpg"
+      }
+    },
+    "16353352422660c7c4": {
+      "type": "apps",
+      "blocks": {
+        "b8ff80fb-f52e-4a90-94fd-aafef60d6f90": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title_color": "",
+            "alignment": "center",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "b8ff80fb-f52e-4a90-94fd-aafef60d6f90"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "news"
+          }
+        }
+      },
+      "block_order": [
+        "blog-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "Featured article",
+        "show_category": false,
+        "button_link": "",
+        "button_text": "View all articles"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "163540763287446a54",
+    "featured-collections",
+    "1635157001c9184524",
+    "collection-list",
+    "16351695511962b3b3",
+    "1636211823848d817d",
+    "1636211286f212ea2b",
+    "163541369315a21173",
+    "16353352422660c7c4",
+    "blog-posts"
+  ]
+}
